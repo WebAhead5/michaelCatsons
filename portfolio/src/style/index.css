@@ -28,7 +28,7 @@
     --nav-menu-hover-opacity:0.8;
 
 }
-@media screen and (min-device-width:  800px ) and (min-width:  800px ) {
+@media screen and (min-width:  800px ) {
  :root{
 
      --nav-menu-flex-direction: column;
