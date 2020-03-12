@@ -1,11 +1,12 @@
 # README 
 
 ## :cat::notes: Overview 
-> Created by: @JakePowis @###t @### @####
+> Created by: @morisR @hadikalil @fridabu @JakePowis
 
 This site is designed as a one page portfolio for <b>The Michael Catsans Dev Team</b>, to provide an overview of the team, an introduction to each of the team members, and the ability to contact us directly via a web form.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP66-9azJvZFZ5RP8L_vFwsq32l6gOHF51wYNdCR7ihNoA7c0o)
+
 ---
 
 ## :computer: The Site
@@ -30,21 +31,21 @@ The team had some initial problems working on a master CSS file, and decided to 
 ![](https://media3.giphy.com/media/DH9skMDA3Vf0s/giphy.gif)
 
 
-
+---
 ## :bulb: What we learned 
 
 
 We learned 
 
--
--
--
--
+- That working with iFrames can be very difficult when combining into one single page;
+- That communication is very important during the design, development and bug fix process;
+- How to better utilise Git Hub when working on a project;
+- Overall deeper understanding of CSS and HTML, particualry CSS Flexbox.
 
-
+---
 ## :arrow_forward: Team Guidelines
 
-
+During the project we agreed some guidelines that we would all follow:
 
 <strong>--> Commit message naming convention:</strong>
 
@@ -60,7 +61,7 @@ rule: all lowercase, words combined with 'dash'
 
 <i>eg. <b>.form-container</b></i>
 
-
+---
 ## Thank You for checking out our page - The Michael Catsans Dev Team
 ![](https://pbs.twimg.com/profile_images/559578867/michael_jackson_cat_400x400.jpg)
 
