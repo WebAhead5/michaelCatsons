@@ -35,12 +35,13 @@ The team had some initial problems working on a master CSS file, and decided to 
 ## :bulb: What we learned 
 
 
-We learned 
+We learned:
 
 - That working with iFrames can be very difficult when combining into one single page;
+- Seperate CSS files are better than just one one (& importing CSS is possible);
 - That communication is very important during the design, development and bug fix process;
 - How to better utilise Git Hub when working on a project;
-- Overall deeper understanding of CSS and HTML, particualry CSS Flexbox.
+- Overall deeper understanding of CSS and HTML, particualry CSS Flexbox an how to implement on mobile.
 
 ---
 ## :arrow_forward: Team Guidelines
