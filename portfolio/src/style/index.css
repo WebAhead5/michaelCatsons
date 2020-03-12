@@ -13,7 +13,6 @@
     --nav-menu-background-color: var(--color-menu-background);
 
     /*padding and margins---------------------------------------------------*/
-    /*todo --framesContainer-padding: 50px 50px;*/
     --nav-menu-bottom: 15px;
     --nav-menu-right: auto;
     --nav-menu-left: auto;
@@ -29,7 +28,7 @@
     --nav-menu-hover-opacity:0.8;
 
 }
-@media screen and (min-width:  800px ) {
+@media screen and (min-device-width:  800px ) and (min-width:  800px ) {
  :root{
 
      --nav-menu-flex-direction: column;
@@ -51,7 +50,6 @@ body{
     background: var(--page-backgrorund-color);
     padding: 0px;
     margin: 0px;
-    color:var(--color-text);
 }
 
 
@@ -75,10 +73,8 @@ body{
 }
 .frame {
 
-
     width:100%;
     margin: 0;
-    padding: 10px;
     border: 0px none;
 
 
